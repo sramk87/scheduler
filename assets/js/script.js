@@ -1,8 +1,8 @@
 function timeTrack() {
     var now = moment().hour()
     
-    $(".time-block").each(function () {
-        var hour = parseInt($(this).attr("id").split("hour"));
+    $(".description").each(function () {
+        var hour = parseInt($(this).attr("id").split("hour")[1]);
     
         if (hour === now) {
             $(this).removeClass("past")
