@@ -1,19 +1,20 @@
 var blockHr = new Date();
 var hours = blockHr.getHours();
-    if(hours >= 9 && hours <= 17){
-        $(".row").addClass("present")
-        $(".row").removeClass("past")
-        $(".row").removeClass("future")
-    }
-    else if(hours < 9){
+
+    if(".hour" > hours) {
         $(".row").addClass("past")
         $(".row").removeClass("present")
         $(".row").removeClass("future")
     }
-    else{
+    else if(".hour" < hours) {
         $(".row").addClass("future")
-        $(".row").removeClass("past")
         $(".row").removeClass("present")
+        $(".row").removeClass("past")
+    }
+    else {
+        $(".row").addClass("present")
+        $(".row").removeClass("past")
+        $(".row").removeClass("future")
     } 
 
 $(document).ready(function () {
