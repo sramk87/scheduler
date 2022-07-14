@@ -20,5 +20,6 @@ THEN the text for that event is saved in local storage</br>
 WHEN I refresh the page</br>
 THEN the saved events persist</br>
 
+URL: https://sramk87.github.io/scheduler/
 
 <img width="1438" alt="Screen Shot 2022-07-13 at 10 42 19 PM" src="https://user-images.githubusercontent.com/106551994/178886704-9e757db1-2a34-427c-9186-b0c76a2591ca.png">
