@@ -22,4 +22,4 @@ THEN the saved events persist</br>
 
 URL: https://sramk87.github.io/scheduler/
 
-<img width="1438" alt="Screen Shot 2022-07-13 at 10 42 19 PM" src="https://user-images.githubusercontent.com/106551994/178886704-9e757db1-2a34-427c-9186-b0c76a2591ca.png">
+<img width="1440" alt="Screen Shot 2022-07-13 at 11 00 28 PM" src="https://user-images.githubusercontent.com/106551994/178888778-104d1664-e428-4592-ae87-6d07bf8fddb4.png">
