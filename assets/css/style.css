@@ -23,6 +23,7 @@ body {
   
   .description{
     white-space: pre-wrap;
+    border: #000 solid;
   }
   
   .time-block{
